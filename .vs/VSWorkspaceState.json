@@ -2,11 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\clone",
+    "\\clone\\public",
     "\\clone\\src",
-    "\\clone\\src\\components\\seoHeader",
-    "\\clone\\src\\containers\\greeting",
-    "\\clone\\src\\pages\\home"
+    "\\clone\\src\\assests",
+    "\\clone\\src\\components",
+    "\\clone\\src\\components\\footer",
+    "\\clone\\src\\components\\seoHeader"
   ],
-  "SelectedNode": "\\clone\\src\\portfolio.js",
+  "SelectedNode": "\\clone\\src\\components\\footer\\Footer.js",
   "PreviewInSolutionExplorer": false
 }
