@@ -2,32 +2,32 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Ira's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Ira Calvo's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://iracalvo.github.io/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Ira Zephaniah Calvo",
+  logo_name: "",
+  nickname: "@ZX",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Hello. I am a passionate, self-taught game developer with most experience in C# and Unity. I have a special fascination with the game development process and complexity of game mechanics. I am eager to learn more tools, engines, and techniques used in the industry.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "",
+  portfolio_repository: "https://github.com/IraCalvo/iracalvo.github.io",
+  githubProfile: "https://github.com/IraCalvo",
 };
 
 const socialMediaLinks = [
@@ -87,7 +87,6 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
