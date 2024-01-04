@@ -95,6 +95,40 @@ const skills = {
         },
       ],
     },
+    {
+      title: "2D Top Down Pixel Combat",
+      fileName: "https://private-user-images.githubusercontent.com/115129139/293854907-513b341d-d6be-4362-8fbe-6644d5c63343.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzNDk4MjAsIm5iZiI6MTcwNDM0OTUyMCwicGF0aCI6Ii8xMTUxMjkxMzkvMjkzODU0OTA3LTUxM2IzNDFkLWQ2YmUtNDM2Mi04ZmJlLTY2NDRkNWM2MzM0My5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwNFQwNjI1MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lOWNjNjQ5ZTU2MmM2OWVkMzlhNWFjMzdmYWRhYjk5NzQyMmMzNjY2ZWUzOTU4Y2Y5NWQxMWIwNTQzYWQ5ZjYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.XfuvqsHeir3EAnbClbC1HaWiXr3k_kTrHmSd1Hlx1vc",
+      skills: [
+        "⚡ This game is one of my favorite coursework projects I've done. It really captures the feeling of bullet hell games that I personally thoroughly enjoy. Within this project there were uses of global lighting, universal shooter script that lets enemy's shoot custom made projectile patterns, and many more.",
+        "⚡ Created using C# and Unity Engine",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Unity",
+          fontAwesomeClassname: "simple-icons:unity",
+          style: {
+            color: "#36454F",
+          },
+        },
+      ],
+    },
+    {
+      title: "Realm Rush",
+      fileName: "https://private-user-images.githubusercontent.com/115129139/294059063-35dbd607-4cce-4cc5-a8e0-23394c244052.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzNTAwNDQsIm5iZiI6MTcwNDM0OTc0NCwicGF0aCI6Ii8xMTUxMjkxMzkvMjk0MDU5MDYzLTM1ZGJkNjA3LTRjY2UtNGNjNS1hOGUwLTIzMzk0YzI0NDA1Mi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwNFQwNjI5MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNWQ2ZTExZjllYTNlYzFlNWQ2MzVhMzBlMDRkYTUxYWEwM2Q5NGJjMmJlYTM1ZTYwNWQwZWI1MTUxYzEzMWY1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Fc-IxwFjx8h-lzGv6nMPjhOfjH9f6tCfMR5d2Kn3HMc",
+      skills: [
+        "⚡ This game is one of my favorite coursework projects I've done. It really captures the feeling of bullet hell games that I personally thoroughly enjoy. Within this project there were uses of global lighting, universal shooter script that lets enemy's shoot custom made projectile patterns, and many more.",
+        "⚡ Created using C# and Unity Engine",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Unity",
+          fontAwesomeClassname: "simple-icons:unity",
+          style: {
+            color: "#36454F",
+          },
+        },
+      ],
+    },
   ],
 };
 

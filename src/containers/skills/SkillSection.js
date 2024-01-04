@@ -33,8 +33,8 @@ class SkillSection extends Component {
                     src={require(`../../assests/images/${skill.imagePath}`)}
                   ></img> */}
                   {/* <GetSkillSvg fileName={skill.fileName} theme={theme} /> */}
-                  <img src={skill.fileName}/>
-                </div>
+                  <img src={skill.fileName} />
+                  </div>
               </Fade>
 
               <div className="skills-text-div">
