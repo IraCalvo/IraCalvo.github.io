@@ -97,7 +97,7 @@ const skills = {
     },
     {
       title: "2D Top Down Pixel Combat",
-      fileName: "https://private-user-images.githubusercontent.com/115129139/293854907-513b341d-d6be-4362-8fbe-6644d5c63343.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzNDk4MjAsIm5iZiI6MTcwNDM0OTUyMCwicGF0aCI6Ii8xMTUxMjkxMzkvMjkzODU0OTA3LTUxM2IzNDFkLWQ2YmUtNDM2Mi04ZmJlLTY2NDRkNWM2MzM0My5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwNFQwNjI1MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lOWNjNjQ5ZTU2MmM2OWVkMzlhNWFjMzdmYWRhYjk5NzQyMmMzNjY2ZWUzOTU4Y2Y5NWQxMWIwNTQzYWQ5ZjYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.XfuvqsHeir3EAnbClbC1HaWiXr3k_kTrHmSd1Hlx1vc",
+        fileName: "https://github.com/IraCalvo/2D-Top-Down-Pixel-Combat/blob/main/2024-01-01%2017-37-45%20-%20Trim.gif?raw=true",
       skills: [
         "⚡ This game is one of my favorite coursework projects I've done. It really captures the feeling of bullet hell games that I personally thoroughly enjoy. Within this project there were uses of global lighting, universal shooter script that lets enemy's shoot custom made projectile patterns, and many more.",
         "⚡ Created using C# and Unity Engine",
@@ -114,7 +114,7 @@ const skills = {
     },
     {
       title: "Realm Rush",
-      fileName: "https://private-user-images.githubusercontent.com/115129139/294186591-af664691-c7b5-425f-9f8d-bbc98c829f49.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzNzU4NjEsIm5iZiI6MTcwNDM3NTU2MSwicGF0aCI6Ii8xMTUxMjkxMzkvMjk0MTg2NTkxLWFmNjY0NjkxLWM3YjUtNDI1Zi05ZjhkLWJiYzk4YzgyOWY0OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwNFQxMzM5MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MmRmYmY2YmU2NjY2NTRhYjZmZDJkMmE5ZjFkNmE4MzJjN2Y2NGI3N2JmNmI4N2NkYzhjZWY4OTQwZmQyMTY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.AVFWceuaR6mzujar_ozu1vU9633Uhx9PGGLbdamA3WY",
+      fileName: "https://github.com/IraCalvo/Realm-Rush-Pathfinding/blob/main/realm-rush.gif?raw=true",
       skills: [
         "⚡ Realm Rush was one of my first 3D projects, and I am extremely happy with it. It is my first project to have custom enemy AI pathfinding. The algorithm that the enemies uses is Breadth's First Search to traverse the node graph.",
         "⚡ Created using C# and Unity Engine",
@@ -131,7 +131,7 @@ const skills = {
     },
     {
       title: "Bullet Hell Roguelike",
-      fileName: "https://private-user-images.githubusercontent.com/115129139/294186591-af664691-c7b5-425f-9f8d-bbc98c829f49.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzNzU4NjEsIm5iZiI6MTcwNDM3NTU2MSwicGF0aCI6Ii8xMTUxMjkxMzkvMjk0MTg2NTkxLWFmNjY0NjkxLWM3YjUtNDI1Zi05ZjhkLWJiYzk4YzgyOWY0OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwNFQxMzM5MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MmRmYmY2YmU2NjY2NTRhYjZmZDJkMmE5ZjFkNmE4MzJjN2Y2NGI3N2JmNmI4N2NkYzhjZWY4OTQwZmQyMTY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.AVFWceuaR6mzujar_ozu1vU9633Uhx9PGGLbdamA3WY",
+        fileName: "https://user-images.githubusercontent.com/115129139/228409513-dcad859d-a7a8-491d-9158-82e1db9c38cc.gif",
       skills: [
          "⚡ Within this coursework I learned and utilized alot of common practices for rougelike games. Such as enemy AI shooting patterns, RNG seeds for true roguelike gameplay, and even Boss AI and multiple phases for a proper boss fight",
          "⚡ Created using C# and Unity Engine",
@@ -148,7 +148,7 @@ const skills = {
     },
         {
             title: "Monster Duels",
-            fileName: "https://private-user-images.githubusercontent.com/115129139/294186591-af664691-c7b5-425f-9f8d-bbc98c829f49.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzNzU4NjEsIm5iZiI6MTcwNDM3NTU2MSwicGF0aCI6Ii8xMTUxMjkxMzkvMjk0MTg2NTkxLWFmNjY0NjkxLWM3YjUtNDI1Zi05ZjhkLWJiYzk4YzgyOWY0OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwNFQxMzM5MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MmRmYmY2YmU2NjY2NTRhYjZmZDJkMmE5ZjFkNmE4MzJjN2Y2NGI3N2JmNmI4N2NkYzhjZWY4OTQwZmQyMTY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.AVFWceuaR6mzujar_ozu1vU9633Uhx9PGGLbdamA3WY",
+            fileName: "https://user-images.githubusercontent.com/115129139/215935076-d9a5b4fb-d75e-4f20-ba89-f31ce6f6ff08.png",
             skills: [
                 "⚡ Monster Duels is a strategy game intended to be a fanmade spiritual sucessor to the game, 'Pokemon Duel' on the phone. Developed during a rapid mini-game jam, the base work for Monster Duels was made within two days. During this game jam it helped me practice more core programming skills such as Recursion and Object Oriented Programming.",
                 "⚡ Created using C# and Unity Engine",
